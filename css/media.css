@@ -235,5 +235,22 @@
         display: flex;
         align-items: center;
     }
+    .end-right--top{
+        display: flex;
+        justify-content: flex-start;
+        margin-right: 130px;
+        flex-direction: row;
+    }
+    .end-media {
+        margin-left: 20px;
+    }
+    .end p {
+        margin-left: 20px;
+        margin-top: 15px;
+    }
+    .footer-media {
+        padding-right: 30px;
+
+    }
 }
 
